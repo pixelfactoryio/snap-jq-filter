@@ -1,1 +1,1 @@
-{id, name, score: (.metrics.score // 0)}
+map(select(.metrics.score > 70))

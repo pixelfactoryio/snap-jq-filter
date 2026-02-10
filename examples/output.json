@@ -1,5 +1,16 @@
-{
-  "id": "u_123",
-  "name": "Ava",
-  "score": 98
-}
+[
+  {
+    "id": "u_101",
+    "name": "Ava",
+    "metrics": {
+      "score": 98
+    }
+  },
+  {
+    "id": "u_103",
+    "name": "Chen",
+    "metrics": {
+      "score": 82
+    }
+  }
+]
